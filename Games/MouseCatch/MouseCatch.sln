@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MouseCatch", "MouseCatch", "{217143EA-7503-4890-A6CF-468BBA124513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseCatch", "MouseCatch\MouseCatch.csproj", "{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|ARM.Build.0 = Debug|ARM
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|ARM.Deploy.0 = Debug|ARM
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|x64.ActiveCfg = Debug|x64
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|x64.Build.0 = Debug|x64
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|x64.Deploy.0 = Debug|x64
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|x86.ActiveCfg = Debug|x86
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|x86.Build.0 = Debug|x86
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Debug|x86.Deploy.0 = Debug|x86
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|ARM.ActiveCfg = Release|ARM
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|ARM.Build.0 = Release|ARM
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|ARM.Deploy.0 = Release|ARM
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|x64.ActiveCfg = Release|x64
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|x64.Build.0 = Release|x64
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|x64.Deploy.0 = Release|x64
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|x86.ActiveCfg = Release|x86
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|x86.Build.0 = Release|x86
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8C5DBAFE-CE7B-4396-87D7-9926EDDF8351} = {217143EA-7503-4890-A6CF-468BBA124513}
+	EndGlobalSection
+EndGlobal
